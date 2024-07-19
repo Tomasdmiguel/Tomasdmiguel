@@ -20,7 +20,37 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 - ORM: Mongoose, TypeORM
 - Control de versiones: Git
 - Metodologías: Scrum
+## 🚀 Tecnologías y Herramientas
 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### Estilos
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### ORM
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white)
+
+### Control de versiones
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Metodologías
+![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
 ## 💼 Proyectos Destacados
 - [Reserva Gol](https://github.com/Tomasdmiguel/Proyecto-Final-Front): Plataforma innovadora para reserva de canchas deportivas.
 - [Ecommerce](https://github.com/Tomasdmiguel/Front-Ecommerce): Aplicación web de comercio electrónico con funcionalidades avanzadas.
