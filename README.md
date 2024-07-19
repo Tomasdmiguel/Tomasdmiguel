@@ -11,15 +11,6 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 
 ## 🌟 Lenguajes Más Usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasdmiguel&layout=compact&theme=radical)
-
-## 🚀 Tecnologías y Herramientas
-- Frontend: React.js, Next.js, TypeScript, JavaScript, Vite, Redux.js
-- Estilos: CSS, Tailwind CSS
-- Backend: Node.js, Express.js
-- Bases de datos: MongoDB, PostgreSQL
-- ORM: Mongoose, TypeORM
-- Control de versiones: Git
-- Metodologías: Scrum
 ## 🚀 Tecnologías y Herramientas
 
 ### Frontend
