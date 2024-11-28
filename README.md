@@ -59,6 +59,10 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 - Full Stack Developer | Front End Specialist - Henry (2024)
 - Técnico en Programación - Escuela de Educación Secundaria Técnica Nº2 "Felipe Senillosa" (2015-2022)
 
+  ## Trabajo
+- Front End- 1/8/2024 - Actualidad - Seeker Parking
+
+
 ## 📫 Contáctame
 - LinkedIn: [Tomas de Miguel](https://www.linkedin.com/in/tomas-de-miguel-2912342b5/)
 - Email: oteguit31@gmail.com
